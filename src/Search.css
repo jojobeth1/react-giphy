@@ -1,0 +1,15 @@
+.Search-form > input {
+  font-size: large;
+}
+
+.Search {
+  color: white;
+}
+
+input {
+  background-color: white;
+  Color: black;
+  border-radius: 10px;
+  border: 1px solid red;
+  margin-left: 50px;
+}
